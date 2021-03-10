@@ -22,9 +22,9 @@ R2S：Swap LAN/WAN ports
 
 OpenWrt official v21.02-snapshot
 
-Doge contains JD-DailyBonus
+Doge contains JD-DailyBonus[.](https://github.com/fw876/helloworld)
 
-[BingBing](https://weibo.com/u/6512991534) contains nothing
+[BingBing](https://weibo.com/u/6512991534) contains nothing[.](https://github.com/fw876/helloworld)
 
 Null means "No Services"
 
